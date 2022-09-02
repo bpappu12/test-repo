@@ -1,8 +1,2 @@
-:w
-
-i
-:i
-:q
-::Q
-q
+This is a test repository for CPSC 3720
 # test-repo
